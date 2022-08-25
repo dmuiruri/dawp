@@ -1,0 +1,10 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# Backup files from emacs
+*.*~
+
+# IPython
+profile_default/
+ipython_config.py
